@@ -121,12 +121,12 @@ Face-Recognition-Attendance-System/
 ---
 
 ### Screenshots
-
+Main Page -->
 <img width="1912" height="721" alt="image" src="https://github.com/user-attachments/assets/a5c26ed1-27ee-46e8-80e1-06d096a446f5" />
-If new Login, had to upload the Image 
+If new Login, had to upload the Image , then again start camera to take attendance -->
 <img width="1903" height="849" alt="image" src="https://github.com/user-attachments/assets/59c173ea-377a-40c0-8afd-2240c9d8e247" />
+Old Users Presence through Webcam -->
 <img width="1891" height="872" alt="image" src="https://github.com/user-attachments/assets/996f861d-90d9-4589-8062-f79ed69e1dfd" />
-
 
 ---
 
